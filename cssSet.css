@@ -81,3 +81,12 @@ body {
   /*justify-content: space-between;
   display: flex;*/
 }  
+
+/* My SubTopic's for studio items */
+.substudiotopic {
+  background-color: white;
+  width: 98%;
+  padding: 5px;
+  /*justify-content: space-between;
+  display: flex;*/
+}  
