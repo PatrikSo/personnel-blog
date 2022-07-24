@@ -1,0 +1,37 @@
+
+<! --  CARD EXAMPLE
+	<! -- START OF CARD -->
+    <div class="card">
+      <h2>DAY ONE</h2>
+      <h5>First Post!, July 17, 2022</h5>
+      <div class="fakeimg" style="height:200px;">Image</div>
+      <p>Some text..</p>
+	  <div class="subtopic">
+		<h4>WORK</h4>
+		<p>Some text...</p>
+	  </div>
+	  <p>  </p>
+	  <div class="subtopic">
+		<h4>STUDIO</h4>
+		<p>Some text...</p>
+		<div class="substudiotopic">
+			<h4>STREAM</h4>
+			<p>Some text...</p>
+		</div>
+		<div class="substudiotopic">
+			<h4>ARTs</h4>
+			<p>Some text...</p>
+		</div>
+		<div class="substudiotopic">
+			<h4>CHANNELs</h4>
+			<p>Some text...</p>
+		</div>
+	  </div>
+	  <p>  </p>
+	  <div class="subtopic">
+		<h4>LIFE</h4>
+		<p>Some text...</p>
+	  </div>
+    </div>
+	<! -- END OF CARD -->
+-->

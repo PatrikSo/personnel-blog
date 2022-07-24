@@ -1,7 +1,7 @@
 body {
   font-family: Arial;
   padding: 20px;
-  background: #f1f1f1;
+  background: #63c976;
   
   /* for bckg image not scrolling
   background-image: url("img_tree.gif");
@@ -48,6 +48,7 @@ body {
   background-color: white;
   padding: 20px;
   margin-top: 20px;
+  opacity: 0.9;
 }
 
 /* Clear floats after the columns */
@@ -78,6 +79,7 @@ body {
   background-color: #aaa;
   width: 100%;
   padding: 5px;
+  /*opacity: 0.9; */
   /*justify-content: space-between;
   display: flex;*/
 }  
@@ -90,3 +92,17 @@ body {
   /*justify-content: space-between;
   display: flex;*/
 }  
+
+/* My SubTopic's for work items */
+.subworktopic {
+  background-color: white;
+  width: 98%;
+  padding: 5px;
+} 
+
+/* My SubTopic's for life items */
+.sublifetopic {
+  background-color: white;
+  width: 98%;
+  padding: 5px;
+} 
