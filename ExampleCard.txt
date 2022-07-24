@@ -8,6 +8,10 @@
       <p>Some text..</p>
 	  <div class="subtopic">
 		<h4>WORK</h4>
+		<div class="subworktopic">
+			<h4>CHANNELs</h4>
+			<p>Some text...</p>
+		</div>
 		<p>Some text...</p>
 	  </div>
 	  <p>  </p>
@@ -30,6 +34,10 @@
 	  <p>  </p>
 	  <div class="subtopic">
 		<h4>LIFE</h4>
+		<div class="sublifetopic">
+			<h4>CHANNELs</h4>
+			<p>Some text...</p>
+		</div>
 		<p>Some text...</p>
 	  </div>
     </div>
